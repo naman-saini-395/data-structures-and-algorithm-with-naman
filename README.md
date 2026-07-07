@@ -1,5 +1,4 @@
-﻿# DSA for AI
- # 🚀 DSA with Naman
+# 🚀 DSA with Naman
 
 Welcome to my **Data Structures and Algorithms (DSA)** journey.  
 This repository contains my practice codes, notes, and solutions while learning DSA.
